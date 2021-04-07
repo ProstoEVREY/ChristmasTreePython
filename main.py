@@ -1,5 +1,5 @@
 while(1):
-    n = input()        #code to print out a christmas tree to a number of steps (infinite)
+    n = input("Please, input an integer: ")        #code to print out a christmas tree to a number of steps (infinite)
     if(n.lower()=="q"):
         break;
     try:
